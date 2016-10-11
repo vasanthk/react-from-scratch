@@ -17,8 +17,22 @@ Let's call this library `Dilithium`.
 
 Our Top level API consists of
 
-`Dilithium.createElement`
+- `Dilithium.createElement`
 
-`Dilithium.Component`
+- `Dilithium.Component`
 
-`Dilithium.render`
+- `Dilithium.render`
+
+Component Class API
+
+- `constructor()`
+
+- `render()`
+
+- `setState()`
+
+- `this.props`
+
+- `this.state`
+
+
