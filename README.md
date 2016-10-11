@@ -1,5 +1,6 @@
-# react-from-scratch
-My attempt at understanding the internals of React and it's intricacies.
+# React from scratch!
+
+My attempt at understanding the internals of React and its intricacies.
 
 Notes from talk - [Building React from Scratch - Paul O Shannessy](https://www.youtube.com/watch?v=_MAD4Oly9yg)
 
@@ -15,7 +16,7 @@ Notes from talk - [Building React from Scratch - Paul O Shannessy](https://www.y
 
 Let's call this library `Dilithium`.
 
-Our Top level API consists of
+Top level API
 
 - `Dilithium.createElement`
 
