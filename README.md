@@ -73,3 +73,5 @@ Base Class API (MultiChild)
 
 [How to implement a Virtual DOM Algorithm](https://github.com/livoras/blog/issues/13)
 
+[Preact - Lightweight 3kb version of React](https://github.com/developit/preact)
+
