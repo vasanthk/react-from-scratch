@@ -51,3 +51,21 @@ Internal Component Lifecycle
 - unmountComponent: To make sure we release all the memeory.
 
 
+** References **
+
+[React Source parsing](http://zhenhua-lee.github.io/react/react.html)
+
+[React Source Analysis - Part I (first rendering principle)](http://purplebamboo.github.io/2015/09/15/reactjs_source_analyze_part_one/)
+
+[React Source Analysis - Part II (update mechanism principle)](http://purplebamboo.github.io/2015/09/15/reactjs_source_analyze_part_two/)
+
+[React source code analysis series - Decrypting setState](https://zhuanlan.zhihu.com/p/20328570)
+
+[React source code analysis series - Life cycle management](https://zhuanlan.zhihu.com/p/20312691)
+
+[React source code analysis series - React diff](https://zhuanlan.zhihu.com/p/20346379)
+
+[React Source Analysis Series - React Transition](https://zhuanlan.zhihu.com/p/20419592)
+
+[How to implement a Virtual DOM Algorithm](https://github.com/livoras/blog/issues/13)
+
