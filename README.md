@@ -51,7 +51,7 @@ Internal Component Lifecycle
 - unmountComponent: To make sure we release all the memeory.
 
 
-** References **
+###References
 
 [React Source parsing](http://zhenhua-lee.github.io/react/react.html)
 
