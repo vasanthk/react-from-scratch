@@ -62,3 +62,34 @@ function mount(element, node) {
   DOM.appendChild(node, renderedNode);
   rootID++;
 }
+
+function update(element, node) {
+  // Find the internal instance and update it.
+  let id = node.dataset[ROOT_KEY];
+  let instance = instancesByRootID[id];
+
+  let prevElem = instance._currentElement;
+  if (shouldUpdateComponent(prevElem, element)) {
+    // Send the new element to the instance.
+    Reconciler.receiveComponent(
+      instance,
+      element
+    );
+  } else {
+    // If it is a new component and not allowed to update
+    // Unmount the current one and mount the new one.
+    unmountComponentAtNode(node);
+    mount(element, node);
+  }
+}
+
+// This determines if we're going to end up reusing the internal instance or not.
+// This is one of the big shortcuts that React does, stopping us from instantiating and comparing full trees.
+// Instead we immediately throw away a subtree when updating from element type to another.
+function shouldUpdateComponent(prevElement, nextElement) {
+  // Simply use element.type
+  // 'div' !== 'span'
+  // ColorSwatch !== CounterButton
+  // Note: in React we would also look at the key.
+  return prevElement.type === nextElement.type;
+}
