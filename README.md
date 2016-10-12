@@ -52,7 +52,7 @@ Internal Component Lifecycle
 
 Base Class API (MultiChild)
 
-*mountChildren -> updateChildren -> unmountChildren
+*mountChildren -> updateChildren -> unmountChildren*
 
 
 ###References
