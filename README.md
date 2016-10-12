@@ -48,7 +48,11 @@ Internal Component Lifecycle
 
 - updateComponent: Mostly an internal API. Even the reconciler itself doesn't really call it.
 
-- unmountComponent: To make sure we release all the memeory.
+- unmountComponent: To make sure we release all the memory.
+
+Base Class API (MultiChild)
+
+*mountChildren -> updateChildren -> unmountChildren
 
 
 ###References
