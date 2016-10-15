@@ -79,5 +79,6 @@ Base Class API (MultiChild)
 
 ###Other
 
-[What's next for React - Fiber architecture](https://www.youtube.com/watch?v=aV1271hd9ew)
+[Tiny React Renderer](https://github.com/iamdustan/tiny-react-renderer)
 
+[React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture)
