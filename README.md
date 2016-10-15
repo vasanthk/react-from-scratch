@@ -77,3 +77,7 @@ Base Class API (MultiChild)
 
 [React Lite - an implementation of React that optimizes for small script size](an implementation of React that optimizes for small script size)
 
+###Other
+
+[What's next for React - Fiber architecture](https://www.youtube.com/watch?v=aV1271hd9ew)
+
