@@ -54,7 +54,6 @@ Base Class API (MultiChild)
 
 *mountChildren -> updateChildren -> unmountChildren*
 
-
 ###References
 
 [React Source parsing](http://zhenhua-lee.github.io/react/react.html)
@@ -82,3 +81,5 @@ Base Class API (MultiChild)
 [Tiny React Renderer](https://github.com/iamdustan/tiny-react-renderer)
 
 [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture)
+
+[ReactJS: Under the hood](https://www.youtube.com/watch?v=xsKYAa1ZXpQ)
