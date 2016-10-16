@@ -80,8 +80,10 @@ Base Class API (MultiChild)
 
 [Tiny React Renderer](https://github.com/iamdustan/tiny-react-renderer)
 
-[React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture)
-
 [ReactJS: Under the hood](https://www.youtube.com/watch?v=xsKYAa1ZXpQ)
 
 [React events in depth](https://www.youtube.com/watch?v=dRo_egw7tBc)
+
+[React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture)
+
+[React Fiber: What's next for React](https://www.youtube.com/watch?v=aV1271hd9ew)
