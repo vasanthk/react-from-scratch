@@ -83,3 +83,5 @@ Base Class API (MultiChild)
 [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture)
 
 [ReactJS: Under the hood](https://www.youtube.com/watch?v=xsKYAa1ZXpQ)
+
+[React events in depth](https://www.youtube.com/watch?v=dRo_egw7tBc)
