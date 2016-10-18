@@ -58,6 +58,10 @@ Base Class API (MultiChild)
 
 [React - Basic Theoretical Concepts](https://github.com/reactjs/react-basic)
 
+[React - Codebase overview](https://facebook.github.io/react/contributing/codebase-overview.html)
+
+[React - Implementation details](https://facebook.github.io/react/contributing/implementation-notes.html)
+
 [React Source parsing](http://zhenhua-lee.github.io/react/react.html)
 
 [React Source Analysis - Part I (first rendering principle)](http://purplebamboo.github.io/2015/09/15/reactjs_source_analyze_part_one/)
