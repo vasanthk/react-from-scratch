@@ -84,6 +84,8 @@ Base Class API (MultiChild)
 
 ###Other
 
+[React.js Internals with Nick Niemeir](https://www.youtube.com/watch?v=FAgSdSikSCc)
+
 [Tiny React Renderer](https://github.com/iamdustan/tiny-react-renderer)
 
 [ReactJS: Under the hood](https://www.youtube.com/watch?v=xsKYAa1ZXpQ)
