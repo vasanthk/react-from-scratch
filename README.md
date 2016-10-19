@@ -95,3 +95,5 @@ Base Class API (MultiChild)
 [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture)
 
 [React Fiber: What's next for React](https://www.youtube.com/watch?v=aV1271hd9ew)
+
+[In-depth diffing](http://buildwithreact.com/article/in-depth-diffing)
