@@ -90,6 +90,8 @@ Base Class API (MultiChild)
 
 [React events in depth](https://www.youtube.com/watch?v=dRo_egw7tBc)
 
+[React reconciliation - Jim Sproch](https://www.youtube.com/watch?v=EZV2rwnGgZA)
+
 [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture)
 
 [React Fiber: What's next for React](https://www.youtube.com/watch?v=aV1271hd9ew)
