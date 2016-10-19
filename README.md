@@ -76,6 +76,10 @@ Base Class API (MultiChild)
 
 [React Source code analysis series - 4. React Transition](https://zhuanlan.zhihu.com/p/20419592)
 
+[Dive into React codebase: Transactions](http://reactkungfu.com/2015/12/dive-into-react-codebase-transactions/)
+
+[Dive into React codebase: Handling state changes](http://reactkungfu.com/2016/03/dive-into-react-codebase-handling-state-changes/)
+
 [How to implement a Virtual DOM Algorithm](https://github.com/livoras/blog/issues/13)
 
 [Preact - Lightweight 3kb version of React](https://github.com/developit/preact)
@@ -85,6 +89,8 @@ Base Class API (MultiChild)
 ###Other
 
 [React.js Internals with Nick Niemeir](https://www.youtube.com/watch?v=FAgSdSikSCc)
+
+[Standing On The Shoulders Of Giants Or How To Read The Internals Of React js](https://www.youtube.com/watch?v=IbXZL0e1haI)
 
 [Tiny React Renderer](https://github.com/iamdustan/tiny-react-renderer)
 
