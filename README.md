@@ -97,3 +97,9 @@ Base Class API (MultiChild)
 [React Fiber: What's next for React](https://www.youtube.com/watch?v=aV1271hd9ew)
 
 [In-depth diffing](http://buildwithreact.com/article/in-depth-diffing)
+
+[Performance Engineering with React](http://benchling.engineering/performance-engineering-with-react/)
+
+[React performance - Vjeux](http://blog.vjeux.com/2013/javascript/react-performance.html)
+
+[React architecture - Vjeux](http://blog.vjeux.com/2014/javascript/react-architecture-oscon.html)
