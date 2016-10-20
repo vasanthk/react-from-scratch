@@ -76,6 +76,10 @@ Base Class API (MultiChild)
 
 [React Source code analysis series - 4. React Transition](https://zhuanlan.zhihu.com/p/20419592)
 
+[React Transaction - What happens after setState](https://undefinedblog.com/what-happened-after-set-state/)
+
+[In depth understanding of the React BatchUpdate mechanism](https://undefinedblog.com/understand-react-batch-update/)
+
 [Dive into React codebase: Transactions](http://reactkungfu.com/2015/12/dive-into-react-codebase-transactions/)
 
 [Dive into React codebase: Handling state changes](http://reactkungfu.com/2016/03/dive-into-react-codebase-handling-state-changes/)
