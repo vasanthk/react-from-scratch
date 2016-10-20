@@ -84,7 +84,7 @@ Base Class API (MultiChild)
 
 [Preact - Lightweight 3kb version of React](https://github.com/developit/preact)
 
-[React Lite - an implementation of React that optimizes for small script size](an implementation of React that optimizes for small script size)
+[React Lite - an implementation of React that optimizes for small script size](https://github.com/Lucifier129/react-lite)
 
 ###Other
 
